@@ -47,7 +47,7 @@ I Am a Backend Developer dedicated to designing and implementing robust, scalabl
 - **[Job Listing App](https://github.com/ahmeedd27/JobListing)**  
   A MongoDB-powered job platform using Spring, allowing recruiters to post job openings and developers to apply. Engineered with scalable backend architecture to handle dynamic job listings and applications.
 
- - **[QuizApp]((https://github.com/ahmeedd27/QuizApp.git))**  
+ - **[QuizApp](https://github.com/ahmeedd27/QuizApp.git)**  
   A Spring Boot-based quiz application with RESTful APIs, featuring question management and quiz generation. Built with Java, Hibernate, and MySQL to deliver a seamless user experience.
 
 ### 📊 GitHub Stats
