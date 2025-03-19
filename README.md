@@ -38,13 +38,13 @@ I Am a Backend Developer dedicated to designing and implementing robust, scalabl
 ---
 
 ### 🚀 Featured Projects
-- **[StalkerRat](https://github.com/ahmeedd27/StalkerRat)**  
+- **[StalkerRat](https://github.com/ahmeedd27/BookNetwork.git)**  
   An anonymous messaging application developed with Spring and PostgreSQL, enabling users to send messages without revealing their identities. Focused on secure, efficient backend logic and database design.
 
 - **[Book Networking App](https://github.com/ahmeedd27/BookNetworking)**  
   A MySQL-backed platform built with Java and Spring, designed for users to borrow, publish, and exchange books. Features robust API endpoints for book management and user interactions.
 
-- **[Job Listing App](https://github.com/ahmeedd27/JobListing)**  
+- **[Job Listing App](https://github.com/ahmeedd27/JobListingApp.git)**  
   A MongoDB-powered job platform using Spring, allowing recruiters to post job openings and developers to apply. Engineered with scalable backend architecture to handle dynamic job listings and applications.
 
  - **[QuizApp](https://github.com/ahmeedd27/QuizApp.git)**  
