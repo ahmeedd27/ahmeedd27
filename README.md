@@ -15,7 +15,7 @@ I Am a Backend Developer dedicated to designing and implementing robust, scalabl
 - 📫 Social links
 <p>
 <a href="https://www.linkedin.com/in/ahmeedd27/"><img
-    src="www.linkedin.com/in/ahmed-brol-a4b3b0232" alt="Linkedin"></a>
+    src="[www.linkedin.com/in/ahmed-brol-a4b3b0232](https://www.linkedin.com/in/ahmed-brol-a4b3b0232/)" alt="Linkedin"></a>
 ---
 
 ### 🛠 Technologies That I Work With
