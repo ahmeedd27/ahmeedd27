@@ -38,7 +38,7 @@ I Am a Backend Developer dedicated to designing and implementing robust, scalabl
 ---
 
 ### 🚀 Featured Projects
-- **[StalkerRat](https://github.com/ahmeedd27/BookNetwork.git)**  
+- **[StalkerRat](https://github.com/ahmeedd27/StalkerRat.git)**  
   An anonymous messaging application developed with Spring and PostgreSQL, enabling users to send messages without revealing their identities. Focused on secure, efficient backend logic and database design.
 
 - **[Book Networking App](https://github.com/ahmeedd27/BookNetwork.git)**  
