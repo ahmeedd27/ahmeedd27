@@ -1,14 +1,14 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
-  Hi There I'm Ahmed 
+  Hi There I'm Ahmed Khamis 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-I Am a Backend Developer dedicated to designing and implementing robust, scalable, and high-performance server-side solutions leveraging Java, Spring Framework. I'm currently sharpening my problem-solving skills, constantly learning and leveling up in algorithms and data structures. I am proficient in utilizing version control systems, Docker, and containerization techniques to streamline development workflows and ensure consistent, scalable deployments.
+I am a Backend Developer dedicated to designing and implementing robust, scalable, and high-performance server-side solutions leveraging Java, Spring Framework. I'm currently sharpening my problem-solving skills, constantly learning and leveling up in algorithms and data structures. I am proficient in utilizing version control systems, Docker, and containerization techniques to streamline development workflows and ensure consistent, scalable deployments.
 </p>
 
 - 👨‍💻 I’m currently working on backend technologies like Java, Spring Boot, and RESTful APIs.
-- 📚 I’m currently learning about microservices, cloud deployment, and advanced database optimization.
+- 📚 I utilize diverse technologies including Java, Spring, and Docker in my projects, diving in spring framework, and advanced database optimization.
 - 🎯 Future Goals: deeply Master Spring Framework - Deploy a production-ready microservices app - Contribute to open-source projects.
 - 💡 Fun Fact: I built a fully functional Apps in just a few days using Spring Boot!
   
