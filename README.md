@@ -43,7 +43,7 @@ I am a Backend Developer dedicated to designing and implementing robust, scalabl
 - **[Book Networking App](https://github.com/ahmeedd27/BookNetwork.git)**  
   A MySQL-backed platform built with Java and Spring, designed for users to borrow, publish, and exchange books. Features robust API endpoints for book management and user interactions.
 
-- **[E-Commerce]((https://github.com/ahmeedd27/E-Commerce))**  
+- **[E-Commerce](https://github.com/ahmeedd27/E-Commerce)**  
    Spring Boot based RESTful API for an e-commerce platform. It supports features like user authentication, product management, cart operations, order processing, and product commenting, all secured with JWT-based authentication and role-based access control.
 
 
